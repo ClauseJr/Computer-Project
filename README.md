@@ -39,4 +39,7 @@ Get the Dataset [all_Computers](https://www.kaggle.com/datasets/paperxd/all-comp
 
 11. **Explores price trends across hardware**  
     Which CPU and GPU combinations appear most frequently, and how does their average price compare to the dataset’s overall average?
+
+12. **RAM–price relationship**  
+    To what extent does RAM capacity affect final pricing across device categories, and is there evidence of diminishing returns at higher RAM levels?
     
