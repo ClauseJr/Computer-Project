@@ -2,7 +2,7 @@
 
 
 ## Objective
-The goal of this project is to analyze the sales data of Clause Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+The goal of this project is to leverage advanced SQL analytics to evaluate how computer hardware specifications influence pricing, performance, and overall value across device categories. By examining trends in efficiency, performance scoring, pricing behavior, and component impact, the project aims to generate actionable insights that support data-driven product comparison and strategic decision-making in the computer hardware market.
 
 Get the Dataset [all_Computers](https://www.kaggle.com/datasets/paperxd/all-computer-prices)
 
