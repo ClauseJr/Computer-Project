@@ -42,4 +42,7 @@ Get the Dataset [all_Computers](https://www.kaggle.com/datasets/paperxd/all-comp
 
 12. **RAM–price relationship**  
     To what extent does RAM capacity affect final pricing across device categories, and is there evidence of diminishing returns at higher RAM levels?
-    
+
+
+## Conclusions
+This SQL Computer Sales Analysis project uses advanced querying techniques to uncover how hardware specifications affect pricing, performance, and value across modern computer devices. By applying CTEs, window functions, correlations, and performance scoring, the project identifies top-performing models, pricing outliers, efficiency leaders, and meaningful trends such as diminishing returns on RAM and the impact of CPU/GPU tiers. The results show how SQL can effectively transform raw product data into clear insights that support pricing strategy, product comparison, and data-driven decision-making in the computer hardware market.
