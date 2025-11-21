@@ -9,16 +9,16 @@ Get the Dataset [all_Computers](https://www.kaggle.com/datasets/paperxd/all-comp
 ## Key Questions
 1. **Top Selling Price Categories**  
    What are the top 10 most expensive models and their full specifications?
-      ```
-   SELECT
-   	model,
-   	storage_type,	
-   	SUM(price) total_price
-   FROM all_computers
-   GROUP BY model, storage_type
-   ORDER BY total_price DESC
-   LIMIT 10;
-      ```
+   ```
+      SELECT
+      	model,
+      	storage_type,	
+      	SUM(price) total_price
+      FROM all_computers
+      GROUP BY model, storage_type
+      ORDER BY total_price DESC
+      LIMIT 10;
+   ```
 2. **Compare Device Categories by Price & Features**  
    Contrast laptops and desktops in terms of price and release-year trends to reveal category-level differences.
 
